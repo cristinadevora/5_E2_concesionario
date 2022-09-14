@@ -1,0 +1,20 @@
+#encabezado {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-left: 5%;
+    height: 80px;
+    background-color: #eb0a0a;
+    box-shadow: 0px 0px 2px 0px #eb0a0a;
+    color: white;
+    font-size:calc(12px + 0.3vw);
+}
+
+#logo{
+    width: 80px;
+}
+
+h1{
+    padding-left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
